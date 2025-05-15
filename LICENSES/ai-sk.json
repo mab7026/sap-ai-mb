@@ -1,11 +1,4 @@
 {
-    "clientid": "sb-28b6d4e1-def5-4025-b736-2fc813bfc20a!b274218|aicore!b540",
-    "clientsecret": "e9ec716c-cdb4-4cd6-bb3d-59f35ec3d448$jmLJBlPv5JKrNKqawTRNLkZ3ijUnAcpjTFoCHQ1_QJk=",
-    "url": "https://ulit-sdi-dev-ymm35af7.authentication.eu10.hana.ondemand.com",
-    "identityzone": "ulit-sdi-dev-ymm35af7",
-    "identityzoneid": "977721b7-8028-4a87-b53c-c9d03a31cb02",
-    "appname": "28b6d4e1-def5-4025-b736-2fc813bfc20a!b274218|aicore!b540",
-    "serviceurls": {
-        "AI_API_URL": "https://api.ai.prod.eu-central-1.aws.ml.hana.ondemand.com"
+
     }
 }
